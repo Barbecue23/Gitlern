@@ -1,1 +1,3 @@
 name: Kiw
+Address: SU
+phon: xxx
